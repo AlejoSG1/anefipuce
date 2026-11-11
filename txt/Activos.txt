@@ -1,0 +1,121 @@
+﻿id_activo	ticker	nombre_activo	tipo_activo	clase_activo	sector	mercado	moneda	calificacion_riesgo	tasa_cupon	fecha_vencimiento	nivel_riesgo
+ACT0001	PACT1	Pacífico Tecnología S.A.	Acción	Renta Variable	Tecnología	NYSE	USD				Alto
+ACT0002	CÓNT2	Cóndor Telecomunicaciones S.A.	Acción	Renta Variable	Telecomunicaciones	Bolsa de Valores de Guayaquil	USD				Alto
+ACT0003	GALE3	Galápagos Energía S.A.	Acción	Renta Variable	Energía	NYSE	USD				Alto
+ACT0004	CHIT4	Chimborazo Telecomunicaciones S.A.	Acción	Renta Variable	Telecomunicaciones	NYSE	USD				Alto
+ACT0005	AMAF5	Amazonía Financiero S.A.	Acción	Renta Variable	Financiero	Bolsa de Valores de Guayaquil	USD				Alto
+ACT0006	AUSI6	Austral Inmobiliario S.A.	Acción	Renta Variable	Inmobiliario	NASDAQ	USD				Alto
+ACT0007	COTS7	Cotopaxi Salud S.A.	Acción	Renta Variable	Salud	Bolsa de Valores de Quito	USD				Alto
+ACT0008	EQUI8	Equinoccio Industrial S.A.	Acción	Renta Variable	Industrial	NASDAQ	USD				Alto
+ACT0009	LITS9	Litoral Servicios Públicos S.A.	Acción	Renta Variable	Servicios Públicos	NYSE	USD				Alto
+ACT0010	SIEM0	Sierra Materiales S.A.	Acción	Renta Variable	Materiales	Bolsa de Valores de Quito	USD				Alto
+ACT0011	VOLS1	Volcán Salud S.A.	Acción	Renta Variable	Salud	NASDAQ	USD				Alto
+ACT0012	HORF2	Horizonte Financiero S.A.	Acción	Renta Variable	Financiero	NYSE	USD				Alto
+ACT0013	NOVA3	Nova Agroindustria S.A.	Acción	Renta Variable	Agroindustria	Bolsa de Valores de Guayaquil	USD				Alto
+ACT0014	DELE4	Delta Energía S.A.	Acción	Renta Variable	Energía	NYSE	USD				Alto
+ACT0015	ATLI5	Atlas Inmobiliario S.A.	Acción	Renta Variable	Inmobiliario	NYSE	USD				Alto
+ACT0016	ORIM6	Orion Materiales S.A.	Acción	Renta Variable	Materiales	NYSE	USD				Alto
+ACT0017	VÉRS7	Vértice Servicios Públicos S.A.	Acción	Renta Variable	Servicios Públicos	Bolsa de Valores de Quito	USD				Alto
+ACT0018	QUAS8	Quantum Servicios Públicos S.A.	Acción	Renta Variable	Servicios Públicos	NYSE	USD				Alto
+ACT0019	PUMC9	Puma Consumo S.A.	Acción	Renta Variable	Consumo	NASDAQ	USD				Alto
+ACT0020	ANDI0	Andes Industrial S.A.	Acción	Renta Variable	Industrial	Bolsa de Valores de Quito	USD				Alto
+ACT0021	PACS1	Pacífico Servicios Públicos S.A.	Acción	Renta Variable	Servicios Públicos	NYSE	USD				Alto
+ACT0022	CÓNS2	Cóndor Salud S.A.	Acción	Renta Variable	Salud	Bolsa de Valores de Quito	USD				Alto
+ACT0023	GALA3	Galápagos Agroindustria S.A.	Acción	Renta Variable	Agroindustria	NYSE	USD				Alto
+ACT0024	CHII4	Chimborazo Inmobiliario S.A.	Acción	Renta Variable	Inmobiliario	Bolsa de Valores de Guayaquil	USD				Alto
+ACT0025	AMAS5	Amazonía Salud S.A.	Acción	Renta Variable	Salud	Bolsa de Valores de Guayaquil	USD				Alto
+ACT0026	AUST6	Austral Telecomunicaciones S.A.	Acción	Renta Variable	Telecomunicaciones	Bolsa de Valores de Quito	USD				Alto
+ACT0027	COTT7	Cotopaxi Tecnología S.A.	Acción	Renta Variable	Tecnología	Bolsa de Valores de Guayaquil	USD				Alto
+ACT0028	EQUT8	Equinoccio Tecnología S.A.	Acción	Renta Variable	Tecnología	NASDAQ	USD				Alto
+ACT0029	LITS92	Litoral Servicios Públicos S.A.	Acción	Renta Variable	Servicios Públicos	Bolsa de Valores de Quito	USD				Alto
+ACT0030	SIET0	Sierra Telecomunicaciones S.A.	Acción	Renta Variable	Telecomunicaciones	Bolsa de Valores de Quito	USD				Alto
+ACT0031	VOLS12	Volcán Salud S.A.	Acción	Renta Variable	Salud	Bolsa de Valores de Quito	USD				Alto
+ACT0032	HORT2	Horizonte Tecnología S.A.	Acción	Renta Variable	Tecnología	Bolsa de Valores de Guayaquil	USD				Alto
+ACT0033	NOVM3	Nova Materiales S.A.	Acción	Renta Variable	Materiales	NYSE	USD				Alto
+ACT0034	DELS4	Delta Salud S.A.	Acción	Renta Variable	Salud	NYSE	USD				Alto
+ACT0035	ATLM5	Atlas Materiales S.A.	Acción	Renta Variable	Materiales	Bolsa de Valores de Guayaquil	USD				Alto
+ACT0036	ORII6	Orion Inmobiliario S.A.	Acción	Renta Variable	Inmobiliario	Bolsa de Valores de Quito	USD				Alto
+ACT0037	VÉRI7	Vértice Industrial S.A.	Acción	Renta Variable	Industrial	Bolsa de Valores de Guayaquil	USD				Alto
+ACT0038	QUAI8	Quantum Inmobiliario S.A.	Acción	Renta Variable	Inmobiliario	Bolsa de Valores de Quito	USD				Alto
+ACT0039	PUMA9	Puma Agroindustria S.A.	Acción	Renta Variable	Agroindustria	Bolsa de Valores de Quito	USD				Alto
+ACT0040	ANDI02	Andes Inmobiliario S.A.	Acción	Renta Variable	Inmobiliario	NASDAQ	USD				Alto
+ACT0041	PACF1	Pacífico Financiero S.A.	Acción	Renta Variable	Financiero	Bolsa de Valores de Quito	USD				Alto
+ACT0042	CÓNA2	Cóndor Agroindustria S.A.	Acción	Renta Variable	Agroindustria	NYSE	USD				Alto
+ACT0043	GALT3	Galápagos Telecomunicaciones S.A.	Acción	Renta Variable	Telecomunicaciones	NYSE	USD				Alto
+ACT0044	CHIT42	Chimborazo Telecomunicaciones S.A.	Acción	Renta Variable	Telecomunicaciones	Bolsa de Valores de Quito	USD				Alto
+ACT0045	AMAT5	Amazonía Telecomunicaciones S.A.	Acción	Renta Variable	Telecomunicaciones	NASDAQ	USD				Alto
+ACT0046	AUEN	Austral Energía Index ETF	ETF	Renta Variable	Energía	NYSE	USD				Medio
+ACT0047	COSE	Cotopaxi Servicios Públicos Index ETF	ETF	Renta Variable	Servicios Públicos	NYSE	USD				Medio
+ACT0048	EQCO	Equinoccio Consumo Index ETF	ETF	Renta Variable	Consumo	NASDAQ	USD				Medio
+ACT0049	LIAG	Litoral Agroindustria Index ETF	ETF	Renta Variable	Agroindustria	NYSE	USD				Medio
+ACT0050	SITE	Sierra Telecomunicaciones Index ETF	ETF	Renta Variable	Telecomunicaciones	NYSE	USD				Medio
+ACT0051	VOCO	Volcán Consumo Index ETF	ETF	Renta Variable	Consumo	NASDAQ	USD				Medio
+ACT0052	HOTE	Horizonte Tecnología Index ETF	ETF	Renta Variable	Tecnología	NYSE	USD				Medio
+ACT0053	NOSE	Nova Servicios Públicos Index ETF	ETF	Renta Variable	Servicios Públicos	NYSE	USD				Medio
+ACT0054	DEAG	Delta Agroindustria Index ETF	ETF	Renta Variable	Agroindustria	NYSE	USD				Medio
+ACT0055	ATTE	Atlas Telecomunicaciones Index ETF	ETF	Renta Variable	Telecomunicaciones	NYSE	USD				Medio
+ACT0056	OREN	Orion Energía Index ETF	ETF	Renta Variable	Energía	NASDAQ	USD				Medio
+ACT0057	VÉTE	Vértice Telecomunicaciones Index ETF	ETF	Renta Variable	Telecomunicaciones	NASDAQ	USD				Medio
+ACT0058	QUTE	Quantum Telecomunicaciones Index ETF	ETF	Renta Variable	Telecomunicaciones	NYSE	USD				Medio
+ACT0059	PUTE	Puma Telecomunicaciones Index ETF	ETF	Renta Variable	Telecomunicaciones	NASDAQ	USD				Medio
+ACT0060	ANIN	Andes Inmobiliario Index ETF	ETF	Renta Variable	Inmobiliario	NYSE	USD				Medio
+ACT0061	PAFI	Pacífico Financiero Index ETF	ETF	Renta Variable	Financiero	NYSE	USD				Medio
+ACT0062	CÓAG	Cóndor Agroindustria Index ETF	ETF	Renta Variable	Agroindustria	NYSE	USD				Medio
+ACT0063	GAAG	Galápagos Agroindustria Index ETF	ETF	Renta Variable	Agroindustria	NASDAQ	USD				Medio
+ACT0064	CHTE	Chimborazo Tecnología Index ETF	ETF	Renta Variable	Tecnología	NYSE	USD				Medio
+ACT0065	AMTE	Amazonía Tecnología Index ETF	ETF	Renta Variable	Tecnología	NASDAQ	USD				Medio
+ACT0066	AUMA	Austral Materiales Index ETF	ETF	Renta Variable	Materiales	NASDAQ	USD				Medio
+ACT0067	COSA	Cotopaxi Salud Index ETF	ETF	Renta Variable	Salud	NASDAQ	USD				Medio
+ACT0068	EQIN	Equinoccio Industrial Index ETF	ETF	Renta Variable	Industrial	NASDAQ	USD				Medio
+ACT0069	LIIN	Litoral Industrial Index ETF	ETF	Renta Variable	Industrial	NYSE	USD				Medio
+ACT0070	SISE	Sierra Servicios Públicos Index ETF	ETF	Renta Variable	Servicios Públicos	NASDAQ	USD				Medio
+ACT0071	BN071	Bono Volcán Financiero S.A. 2028	Bono Corporativo	Renta Fija	Financiero	Bolsa de Valores de Quito	USD	AA-	0.0863	2033-11-02	Bajo
+ACT0072	BN072	Bono Horizonte Financiero S.A. 2027	Bono Corporativo	Renta Fija	Financiero	Bolsa de Valores de Quito	USD	A-	0.069	2028-01-02	Bajo
+ACT0073	BN073	Bono Nova Industrial S.A. 2028	Bono Corporativo	Renta Fija	Industrial	OTC Internacional	USD	A-	0.0955	2032-03-02	Bajo
+ACT0074	BN074	Bono Delta Energía S.A. 2028	Bono Corporativo	Renta Fija	Energía	Bolsa de Valores de Quito	USD	A	0.0988	2028-09-15	Bajo
+ACT0075	BN075	Bono Atlas Tecnología S.A. 2030	Bono Corporativo	Renta Fija	Tecnología	Bolsa de Valores de Quito	USD	A	0.0856	2033-07-15	Bajo
+ACT0076	BN076	Bono Orion Energía S.A. 2035	Bono Corporativo	Renta Fija	Energía	Bolsa de Valores de Quito	USD	AA+	0.0852	2028-07-13	Bajo
+ACT0077	BN077	Bono Vértice Agroindustria S.A. 2035	Bono Corporativo	Renta Fija	Agroindustria	OTC Internacional	USD	A-	0.0928	2031-03-30	Bajo
+ACT0078	BN078	Bono Quantum Telecomunicaciones S.A. 2029	Bono Corporativo	Renta Fija	Telecomunicaciones	OTC Internacional	USD	AA+	0.0694	2029-02-21	Bajo
+ACT0079	BN079	Bono Puma Servicios Públicos S.A. 2029	Bono Corporativo	Renta Fija	Servicios Públicos	OTC Internacional	USD	AAA	0.0605	2029-08-05	Bajo
+ACT0080	BN080	Bono Andes Financiero S.A. 2032	Bono Corporativo	Renta Fija	Financiero	OTC Internacional	USD	A-	0.0588	2033-06-24	Bajo
+ACT0081	BN081	Bono Pacífico Tecnología S.A. 2034	Bono Corporativo	Renta Fija	Tecnología	Bolsa de Valores de Quito	USD	A	0.0633	2033-07-11	Bajo
+ACT0082	BN082	Bono Cóndor Tecnología S.A. 2035	Bono Corporativo	Renta Fija	Tecnología	Bolsa de Valores de Quito	USD	AA	0.082	2034-05-13	Bajo
+ACT0083	BN083	Bono Galápagos Telecomunicaciones S.A. 2033	Bono Corporativo	Renta Fija	Telecomunicaciones	OTC Internacional	USD	A+	0.0526	2030-04-05	Bajo
+ACT0084	BN084	Bono Chimborazo Inmobiliario S.A. 2033	Bono Corporativo	Renta Fija	Inmobiliario	Bolsa de Valores de Quito	USD	A-	0.1031	2027-07-24	Bajo
+ACT0085	BN085	Bono Amazonía Inmobiliario S.A. 2034	Bono Corporativo	Renta Fija	Inmobiliario	OTC Internacional	USD	AA-	0.0607	2032-12-25	Bajo
+ACT0086	BN086	Bono Austral Consumo S.A. 2029	Bono Corporativo	Renta Fija	Consumo	Bolsa de Valores de Quito	USD	AA-	0.0613	2030-03-28	Bajo
+ACT0087	BN087	Bono Cotopaxi Servicios Públicos S.A. 2032	Bono Corporativo	Renta Fija	Servicios Públicos	Bolsa de Valores de Quito	USD	A+	0.1021	2032-03-29	Bajo
+ACT0088	BN088	Bono Equinoccio Telecomunicaciones S.A. 2028	Bono Corporativo	Renta Fija	Telecomunicaciones	OTC Internacional	USD	AA	0.0703	2031-10-31	Bajo
+ACT0089	BN089	Bono Litoral Consumo S.A. 2031	Bono Corporativo	Renta Fija	Consumo	Bolsa de Valores de Quito	USD	AA-	0.0888	2034-10-30	Bajo
+ACT0090	BN090	Bono Sierra Industrial S.A. 2033	Bono Corporativo	Renta Fija	Industrial	OTC Internacional	USD	AA+	0.1039	2028-06-24	Bajo
+ACT0091	BN091	Bono República del Ecuador 2032	Bono Soberano	Renta Fija	Soberano	OTC Internacional	USD	A	0.1006	2027-06-17	Medio
+ACT0092	BN092	Bono República del Ecuador 2035	Bono Soberano	Renta Fija	Soberano	OTC Internacional	USD	A	0.0991	2027-03-09	Medio
+ACT0093	BN093	Bono República del Ecuador 2035	Bono Soberano	Renta Fija	Soberano	OTC Internacional	USD	A+	0.1094	2032-04-11	Medio
+ACT0094	BN094	Bono República del Ecuador 2033	Bono Soberano	Renta Fija	Soberano	Bolsa de Valores de Quito	USD	AA-	0.0606	2034-04-17	Medio
+ACT0095	BN095	Bono República del Ecuador 2034	Bono Soberano	Renta Fija	Soberano	Bolsa de Valores de Quito	USD	A	0.0679	2029-11-25	Medio
+ACT0096	BN096	Bono República del Ecuador 2030	Bono Soberano	Renta Fija	Soberano	Bolsa de Valores de Quito	USD	AA	0.0582	2035-05-08	Medio
+ACT0097	BN097	Bono República del Ecuador 2030	Bono Soberano	Renta Fija	Soberano	Bolsa de Valores de Quito	USD	A	0.0462	2032-03-09	Medio
+ACT0098	BN098	Bono República del Ecuador 2027	Bono Soberano	Renta Fija	Soberano	OTC Internacional	USD	AA	0.0724	2030-05-30	Medio
+ACT0099	BN099	Bono República del Ecuador 2031	Bono Soberano	Renta Fija	Soberano	OTC Internacional	USD	AA	0.0978	2032-09-30	Medio
+ACT0100	BN100	Bono República del Ecuador 2034	Bono Soberano	Renta Fija	Soberano	Bolsa de Valores de Quito	USD	AA	0.0526	2032-11-17	Medio
+ACT0101	BN101	Bono República del Ecuador 2029	Bono Soberano	Renta Fija	Soberano	OTC Internacional	USD	AA	0.1075	2032-07-03	Medio
+ACT0102	BN102	Bono República del Ecuador 2032	Bono Soberano	Renta Fija	Soberano	OTC Internacional	USD	AAA	0.1006	2027-05-02	Medio
+ACT0103	CDP103	CDP Banco Galápagos 180 días	Certificado de Depósito	Renta Fija	Tecnología	Bolsa de Valores de Guayaquil	USD	AA-	0.1049	2031-08-10	Bajo
+ACT0104	CDP104	CDP Banco Chimborazo 180 días	Certificado de Depósito	Renta Fija	Energía	Bolsa de Valores de Guayaquil	USD	A	0.0766	2033-06-18	Bajo
+ACT0105	CDP105	CDP Banco Amazonía 180 días	Certificado de Depósito	Renta Fija	Tecnología	Bolsa de Valores de Guayaquil	USD	AA-	0.0493	2032-04-10	Bajo
+ACT0106	CDP106	CDP Banco Austral 90 días	Certificado de Depósito	Renta Fija	Telecomunicaciones	Bolsa de Valores de Guayaquil	USD	AA+	0.0532	2028-02-05	Bajo
+ACT0107	CDP107	CDP Banco Cotopaxi 90 días	Certificado de Depósito	Renta Fija	Tecnología	Bolsa de Valores de Guayaquil	USD	AA	0.0691	2034-03-02	Bajo
+ACT0108	CDP108	CDP Banco Equinoccio 180 días	Certificado de Depósito	Renta Fija	Servicios Públicos	Bolsa de Valores de Guayaquil	USD	A-	0.0947	2032-08-15	Bajo
+ACT0109	CDP109	CDP Banco Litoral 90 días	Certificado de Depósito	Renta Fija	Energía	Bolsa de Valores de Guayaquil	USD	A-	0.0617	2032-10-21	Bajo
+ACT0110	CDP110	CDP Banco Sierra 180 días	Certificado de Depósito	Renta Fija	Financiero	Bolsa de Valores de Guayaquil	USD	A-	0.0517	2030-01-16	Bajo
+ACT0111	CDP111	CDP Banco Volcán 180 días	Certificado de Depósito	Renta Fija	Materiales	Bolsa de Valores de Guayaquil	USD	AA-	0.0835	2027-10-19	Bajo
+ACT0112	CDP112	CDP Banco Horizonte 90 días	Certificado de Depósito	Renta Fija	Salud	Bolsa de Valores de Guayaquil	USD	AA+	0.0623	2033-02-28	Bajo
+ACT0113	NOVC	NovaCoin	Criptoactivo	Renta Variable	Activos Digitales	Exchange Cripto	USD				Muy Alto
+ACT0114	DELC	DeltaCoin	Criptoactivo	Renta Variable	Activos Digitales	Exchange Cripto	USD				Muy Alto
+ACT0115	ATLC	AtlasCoin	Criptoactivo	Renta Variable	Activos Digitales	Exchange Cripto	USD				Muy Alto
+ACT0116	ORIC	OrionCoin	Criptoactivo	Renta Variable	Activos Digitales	Exchange Cripto	USD				Muy Alto
+ACT0117	VÉRC	VérticeCoin	Criptoactivo	Renta Variable	Activos Digitales	Exchange Cripto	USD				Muy Alto
+ACT0118	QUAC	QuantumCoin	Criptoactivo	Renta Variable	Activos Digitales	Exchange Cripto	USD				Muy Alto
+ACT0119	PUMC	PumaCoin	Criptoactivo	Renta Variable	Activos Digitales	Exchange Cripto	USD				Muy Alto
+ACT0120	ANDC	AndesCoin	Criptoactivo	Renta Variable	Activos Digitales	Exchange Cripto	USD				Muy Alto
